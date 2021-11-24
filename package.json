@@ -4,13 +4,24 @@
   "description": "A simple proxy checker script.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7ORP3DO/checkProxy"
   },
   "keywords": [
-    "proxychecker"
+    "proxychecker",
+    "proxy",
+    "checkProxy"
   ],
   "author": "7ORP3DO",
   "license": "MIT",
+  "homepage": "https://github.com/7ORP3DO/checkProxy",
+  "bugs": {
+    "url": "https://github.com/7ORP3DO/checkProxy/issues"
+  },
   "dependencies": {
     "colors": "^1.4.0",
     "moment": "^2.29.1",

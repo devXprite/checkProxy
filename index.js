@@ -19,7 +19,9 @@ fs.access(fileNameToRead, fs.F_OK, (err) => {
     } else {
         var proxys = fs.readFileSync(fileNameToRead, 'utf8');
         var proxyList = proxys.split('\n');
+
         fs.openSync(fileNameToSaveProxy, 'a');
+        console.log("\n");
 
         proxyList.forEach(proxy => {
             request({
