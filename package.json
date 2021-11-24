@@ -13,6 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
+    "moment": "^2.29.1",
     "prompt-sync": "^4.2.0",
     "request": "^2.88.2"
   }
