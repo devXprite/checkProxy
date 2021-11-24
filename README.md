@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="#"><img title="Drishti" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/7ORP3DO/checkProxy&title=Profile%20Views"></a>
+<a href="#"><img title="Drishti" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/7ORP3DO/checkProxy&title=Total%20Views"></a>
 <a href="#"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
